@@ -4,7 +4,7 @@
 
 ##### Data
 
-Largely following markjay4k's walkthrough (https://github.com/markjay4k/YOLO-series), I first manually annotated 1288 images of M1 Abrams tanks using the RectLabel app to produce the annotation XMLs.
+Largely following markjay4k's walkthrough (https://github.com/markjay4k/YOLO-series) and thtrieu's darkflow (https://github.com/thtrieu/darkflow), I first manually annotated 1288 images of M1 Abrams tanks using the RectLabel app to produce the annotation XMLs.
 
 ##### Training
 
