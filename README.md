@@ -13,3 +13,15 @@ Trained the model for 5125 steps in Google Colab.
 ##### Results
 
 The model is able to detect M1 Abrams in all of the test photos although without a high degree of confidence.
+
+Video Results: 
+
+https://youtu.be/TGagMXkKJ4E
+
+https://youtu.be/S9IXBASPzag
+
+Image Results:
+
+![download (5)](https://user-images.githubusercontent.com/31871105/57265597-6a014300-7046-11e9-81ee-00c5f3886eb2.png)
+
+![download (2)](https://user-images.githubusercontent.com/31871105/57265613-81d8c700-7046-11e9-992c-a02bb62b2e0b.png)
