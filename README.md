@@ -8,7 +8,7 @@ Largely following markjay4k's walkthrough (https://github.com/markjay4k/YOLO-ser
 
 #### Training
 
-Trained the model for 5125 steps in Google Colab.
+Trained the model for 5125 steps in Google Colaboratory.
 
 #### Results
 
