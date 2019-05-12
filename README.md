@@ -12,7 +12,7 @@ Trained the model for 5125 steps in Google Colaboratory.
 
 #### Results
 
-The model is able to detect M1 Abrams in all of the test photos although with a low degree of confidence.
+The model is able to detect M1 Abrams in all of the test photos although with a rather low degree of confidence.
 
 Video Results:
 
