@@ -1,6 +1,6 @@
 # YOLO v2 Applied to M1 Abrams Tanks
 
-#### Project Goal: Train a set of YOLO weights to detect and draw bounding boxes around given images and videos containing M1 Abrams tanks. This a continuation of https://github.com/mpky/abrams_project.
+#### Project Goal: Train a set of YOLO weights to detect and draw bounding boxes around given images and videos containing M1 Abrams tanks. This is a continuation of https://github.com/mpky/abrams_project.
 
 #### Data
 
