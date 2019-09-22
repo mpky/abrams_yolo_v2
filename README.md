@@ -1,5 +1,7 @@
 # YOLOv2 Applied to M1 Abrams Tanks
 
+![abramsgif](https://user-images.githubusercontent.com/31871105/65381850-6b669b80-dcc7-11e9-97f3-0b8a1904b633.gif)
+
 #### Project Goal
 
 Using [thrieu's darkflow](https://github.com/thtrieu/darkflow) and following [markjay4k's walkthrough](https://github.com/markjay4k/YOLO-series), train a custom set of YOLOv2 weights to detect and highlight M1 Abrams tanks in a given image or video. This project is a continuation of my [previous project](https://github.com/mpky/abrams_project), where I built an image classifier to detect M1 Abrams tanks in a given image.
@@ -33,7 +35,5 @@ https://youtu.be/TGagMXkKJ4E
 https://youtu.be/S9IXBASPzag
 
 Image Results:
-
-![download (2)](https://user-images.githubusercontent.com/31871105/57265613-81d8c700-7046-11e9-992c-a02bb62b2e0b.png)
 
 ![download (5)](https://user-images.githubusercontent.com/31871105/57265597-6a014300-7046-11e9-81ee-00c5f3886eb2.png)
