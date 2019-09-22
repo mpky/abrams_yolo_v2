@@ -1,6 +1,6 @@
 # YOLOv2 Applied to M1 Abrams Tanks
 
-![abramsgif](https://user-images.githubusercontent.com/31871105/65381850-6b669b80-dcc7-11e9-97f3-0b8a1904b633.gif)
+<p align="center"> <img src="abramsgif.gif"/> </p>
 
 #### Project Goal
 
