@@ -4,7 +4,7 @@
 
 #### Project Goal
 
-Using [thrieu's darkflow](https://github.com/thtrieu/darkflow) and following [markjay4k's walkthrough](https://github.com/markjay4k/YOLO-series), train a custom set of YOLOv2 weights to detect and highlight M1 Abrams tanks in a given image or video. This project is a continuation of my [previous project](https://github.com/mpky/abrams_project), where I built an image classifier to detect M1 Abrams tanks in a given image.
+Using [thrieu's darkflow](https://github.com/thtrieu/darkflow) and [markjay4k's walkthrough](https://github.com/markjay4k/YOLO-series), I trained a custom set of YOLOv2 weights to detect and highlight M1 Abrams tanks in a given image or video. This project is a continuation of my [previous project](https://github.com/mpky/abrams_project), where I built an image classifier to detect M1 Abrams tanks in a given image.
 
 #### Motivation
 
