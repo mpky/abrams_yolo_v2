@@ -2,11 +2,11 @@
 
 <p align="center"> <img src="abramsgif.gif"/> </p>
 
-#### Project Goal
+### Project Goal
 
-Using [thrieu's darkflow](https://github.com/thtrieu/darkflow) and [markjay4k's walkthrough](https://github.com/markjay4k/YOLO-series), I trained a custom set of YOLOv2 weights to detect and highlight M1 Abrams tanks in a given image or video. This project is a continuation of my [previous project](https://github.com/mpky/abrams_project), where I built an image classifier to detect M1 Abrams tanks in a given image.
+Using [thrieu's darkflow](https://github.com/thtrieu/darkflow), I trained a custom set of YOLOv2 weights to detect and highlight M1 Abrams tanks in a given image or video. This project is a continuation of my [previous project](https://github.com/mpky/abrams_project), where I built an image classifier to detect M1 Abrams tanks in a given image.
 
-#### Motivation
+### Motivation
 
 The massive amount of photos and videos uploaded to social media today from conflict zones has provided opportunities for creative and new types of research and analysis. Experts such as those at Bellingcat and Armament Research Services have proven the power of this new type of open-source information in their analysis on everything from chemical weapons attacks to the capabilities of various armed opposition groups in Syria.
 
@@ -16,24 +16,24 @@ One of the more alarming [such incidents](https://www.longwarjournal.org/archive
 
 A YOLO model trained on images of high-risk weapons systems, in this case, M1 Abrams tanks, can help open source arms trackers monitor end-user issues and accelerate their research process.
 
-#### Data
+### Data
 
 I used the [Fatkun Batch Download Image](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en) extension for Google Chrome to download the results of a Google Image search. The resulting dataset required manual cleaning as the downloader is rather brute force and Google Image searches were often polluted with images of non-Abrams tanks.  In total, I have 1291 images of M1 Abrams tanks that I manually annotated with the [RectLabel app](https://rectlabel.com/).
 
-#### Training
+### Training
 
 I trained the model for 5125 steps/64 epochs using Google Colaboratory's free GPU compute. The model's loss leveled off around 1.5.
 
-#### Results
+### Results
 
 The model is able to detect M1 Abrams in all of the test photos, although with a low degree of confidence.
 
-Video Results:
+###### Sample Image Result:
+
+![download (5)](https://user-images.githubusercontent.com/31871105/57265597-6a014300-7046-11e9-81ee-00c5f3886eb2.png)
+
+###### Video Results:
 
 https://youtu.be/TGagMXkKJ4E
 
 https://youtu.be/S9IXBASPzag
-
-Image Results:
-
-![download (5)](https://user-images.githubusercontent.com/31871105/57265597-6a014300-7046-11e9-81ee-00c5f3886eb2.png)
